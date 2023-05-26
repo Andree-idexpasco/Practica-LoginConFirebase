@@ -1,3 +1,7 @@
+En este archivo se encuentra la información de montaje, para verlo con detalle 
+y saber más sobre el proyecto debe ver el archivo README.md, donde se explica
+el funcionamiento del proyecto completo.
+
 Creación del proyecto:
 
     -Abrimos una terminal de Command Prompt
