@@ -1,0 +1,22 @@
+Creación del proyecto:
+
+    -Abrimos una terminal de Command Prompt
+    -Usamos el comando 'npx create-expo-app --template'
+    -Elegimos la opción de Proyecto en blanco
+    -Le asignamos el nombre de Login-Facebook
+    -Ingresamos a nuestro proyecto usando 'cd Login-Facebook' 
+
+Instalamos las siguientes dependencias:
+
+    -'yarn add @react-navigation/native @react-navigation/stack firebase react-native-elements'
+    -'yarn add @expo/vector-icons'
+    -'yarn add firebase'
+
+    -'npm install --save react-navigation'
+    -'expo install react-native-gesture-handler react-native-reanimated react-navigation-stack'
+    -'expo install react-native-safe-area-view react-native-safe-area-context'
+    -'expo install @react-native-community/masked-view'
+    -'expo install react-native-screens'
+
+Para la autenticación con una cuenta de Google debemos intalar la siguiente dependencia:
+    -'npm install firebase react-native-google-signin'
